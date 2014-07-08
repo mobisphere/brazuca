@@ -2,7 +2,7 @@
 
 
 ```bash
-$ npm install -g ionic cordova harp newman testem phantomjs casperjs
+	$ npm install -g ionic cordova harp newman testem phantomjs casperjs
 ```
 
 ### Development
