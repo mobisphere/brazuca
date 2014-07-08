@@ -1,19 +1,21 @@
 ### BRAZUCA
 
+Mobile App using World Cup 2014 Kimono Labs API, Ionic Framework and Cordova.
+
 
 ```bash
-	$ npm install -g ionic cordova harp newman testem phantomjs casperjs
+$ npm install -g ionic cordova harp newman testem phantomjs casperjs
 ```
 
 ### Development
 
 ```bash
-	$ harp compile app www
+$ harp compile app www
 ```
 
 ### Postman REST Client collection
 
-    https://www.getpostman.com/collections/d97207ea85a5a3f8cba2
+	https://www.getpostman.com/collections/d97207ea85a5a3f8cba2
 
 ### Credits
 
